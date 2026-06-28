@@ -1,15 +1,18 @@
 # C Practice ⚙️
 
-My personal collection of C practice programs — building strong fundamentals in systems programming.
+Fundamental C programming — preparing for university CS/EE studies.
 
-## 📂 Structure
+## 🛠️ Skills
 
-```
-C-Practice/
-└── C Program/     # 45+ exercises covering core C concepts
-```
+`Variables` · `Data Types` · `User Input` · `Arithmetic`
+`Control Flow` · `Loops (for / while / do-while)` · `Nested Loops`
+`Functions` · `Function Prototypes` · `Return Values`
+`Arrays (1D / 2D)` · `Strings` · `Pointers`
+`Dynamic Memory (malloc / calloc / realloc)`
+`Structs` · `Array of Structs` · `Typedef` · `Enums`
+`File I/O (read / write)` · `Pseudorandom Numbers`
 
-## 🧩 What's Inside
+## 📂 What's Inside
 
 | Category | Files |
 |----------|-------|
@@ -22,18 +25,6 @@ C-Practice/
 | **File I/O** | `readFiles`, `WriteFiles` |
 | **Mini Projects** | `calculator`, `bankingProgram`, `shoppingcart`, `temperatureConversion`, `weightConverter`, `CompoundCalculator`, `digital_clock` |
 | **Games** | `numGuess`, `RockPaperScissor_BroCode`, `RockPaperScissor_MyVer`, `QuizGame_MyVer`, `QuizGame_Tutor`, `madlibs` |
-
-## 🚀 How to Compile & Run
-
-```bash
-# Using GCC
-gcc filename.c -o filename.exe
-.\filename.exe
-
-# Or using your preferred C compiler
-```
-
-> Built with C99 / C11 standards
 
 ---
 
